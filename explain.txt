@@ -1,0 +1,4 @@
+model => representation of how a data is salved in the application
+repositories => work with data, CRUD
+services=> rules of negotiation apply filter...
+routes => routes
